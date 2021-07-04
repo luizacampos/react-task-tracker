@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Project from April 2021, when I was learning react 📑 🖥️
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
